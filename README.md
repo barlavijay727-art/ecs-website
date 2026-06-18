@@ -1,4 +1,4 @@
-# ecs-website
+# ipl tickets booking webpage
 Live website:<br>
 https://barlavijay727-art.github.io/ecs-website/<br>
 <br>
